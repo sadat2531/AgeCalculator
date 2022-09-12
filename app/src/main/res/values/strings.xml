@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">SimpleAgeCalculator</string>
+    <string name="ButtonTxt">Select</string>
+    <string name="ButtonTxt2">Calculate</string>
+    <string name="ExitButtonTxt">Exit</string>
+    <string name="PositiveButtonTxt">Yes</string>
+    <string name="NegativeButtonTxt">No</string>
+    <string name="NeutralButtonTxt">Cancel</string>
+    <string name="Labeltxt1">Date of Birth: </string>
+    <string name="Labeltxt2">Select Date</string>
+    <string name="Labeltxt3">Age on Date: </string>
+    <string name="Labeltxt4">Age:</string>
+    <string name="Labeltxt5">0 Years| 0 Months| 0 Days</string>
+    <string name="ToastTxt1">Age calculated!</string>
+    <string name="ToastTxt2">BirthDate should not be larger then count date!</string>
+    <string name="ToastTxt3">Please select date!</string>
+    <string name="ToastTxt4">App closed</string>
+    <string name="ToastTxt5">Operation Canceled</string>
+    <string name="DevloperInfo">An app by Nazmus Sadat.</string>
+    <string name="AlertTitle">Warning!</string>
+    <string name="AlertMessage">Do you want to exit?</string>
+
+</resources>
